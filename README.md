@@ -18,8 +18,8 @@ This project is a simple Java application demonstrating basic CRUD (Create, Read
 ## Setup Instructions
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd hibernate
+   git clone [<repository-url>](https://github.com/MU-N/student-hibernate-crud)
+   cd student-hibernate-crud
    ```
 2. **Configure the Database**
    - Ensure PostgreSQL is running and a database named `demo` exists.
